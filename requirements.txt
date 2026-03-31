@@ -1,0 +1,7 @@
+fastapi==0.135.1
+uvicorn[standard]==0.38.0
+PyGithub==2.8.1
+python-dotenv==1.1.1
+langchain-openai==0.3.35
+langchain-core==0.3.79
+openai==2.1.0
